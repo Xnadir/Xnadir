@@ -26,6 +26,7 @@
 | <img src="https://github.com/go-vikunja.png" width="16" /> **[go-vikunja/vikunja](https://github.com/go-vikunja/vikunja/pulls?q=is%3Apr+author%3AXnadir)** | Quick Add Magic: dates, repeats and labels parsed correctly; subtasks from tab-indented lists; attachment sizes |
 | <img src="https://github.com/actualbudget.png" width="16" /> **[actualbudget/actual](https://github.com/actualbudget/actual/pulls?q=is%3Apr+author%3AXnadir)** | Bank file import: OFX investment accounts, QIF whitespace, CAMT batch entries _(in review)_ |
 | <img src="https://github.com/super-productivity.png" width="16" /> **[super-productivity](https://github.com/super-productivity/super-productivity/pulls?q=is%3Apr+author%3AXnadir)** | Duration input ("1 hour 30 minutes", decimal commas), Markdown task paste _(in review)_ |
+| <img src="https://github.com/oxc-project.png" width="16" /> **[oxc-project/oxc](https://github.com/oxc-project/oxc/pulls?q=is%3Apr+author%3AXnadir)** | Oxlint rule fixes: `jsx-a11y` false positives, `import/extensions` options _(in review)_ |
 | <img src="https://github.com/NVIDIA.png" width="16" /> **[NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector/pulls?q=is%3Apr+author%3AXnadir)** | Fewer false positives in the skill-quality checks |
 | <img src="https://github.com/up-for-grabs.png" width="16" /> **[up-for-grabs](https://github.com/up-for-grabs/up-for-grabs.net/pulls?q=is%3Apr+author%3AXnadir)** | CI (Ruby on ubuntu-26.04), project data checks |
 
