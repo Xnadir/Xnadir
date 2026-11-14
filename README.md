@@ -22,7 +22,7 @@
 
 | Project | What I've worked on |
 |---|---|
-| <img src="https://github.com/TabularisDB.png" width="16" /> **[TabularisDB/tabularis](https://github.com/TabularisDB/tabularis/pulls?q=is%3Apr+author%3AXnadir)** | Copy rows as SQL `UPDATE`, pinned tables and query tabs, convert selection to a SQL list, SQL splitter (trigger and `BEGIN ATOMIC` bodies), escaped names in generated `CREATE TABLE`, pasted-data and connection-string parsing fixes |
+| <img src="https://github.com/TabularisDB.png" width="16" /> **[TabularisDB/tabularis](https://github.com/TabularisDB/tabularis/pulls?q=is%3Apr+author%3AXnadir)** | Copy rows as SQL `UPDATE`, pinned tables and query tabs, shortcut search in Settings, convert selection to a SQL list, SQL splitter (trigger and `BEGIN ATOMIC` bodies), escaped names in generated `CREATE TABLE`, pasted-data and connection-string parsing fixes |
 | <img src="https://github.com/go-vikunja.png" width="16" /> **[go-vikunja/vikunja](https://github.com/go-vikunja/vikunja/pulls?q=is%3Apr+author%3AXnadir)** | Quick Add Magic: dates, repeats and labels parsed correctly; subtasks from tab-indented lists; attachment sizes |
 | <img src="https://github.com/actualbudget.png" width="16" /> **[actualbudget/actual](https://github.com/actualbudget/actual/pulls?q=is%3Apr+author%3AXnadir)** | Bank file import: OFX investment accounts, QIF whitespace, CAMT batch entries _(in review)_ |
 | <img src="https://github.com/super-productivity.png" width="16" /> **[super-productivity](https://github.com/super-productivity/super-productivity/pulls?q=is%3Apr+author%3AXnadir)** | Duration input ("1 hour 30 minutes", decimal commas), Markdown task paste _(in review)_ |
